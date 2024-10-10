@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Agbalumo
+- Font Author: Copyright 2023 The Agbalumo Project Authors (https://github.com/SorkinType/Agbalumo)
+- Font Source: https://fonts.gstatic.com/s/agbalumo/v5/55xvey5uMdT2N37KZcMFirl08KDJ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
